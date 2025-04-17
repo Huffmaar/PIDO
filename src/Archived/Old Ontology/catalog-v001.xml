@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/ontologies/2013/5/IDOSCHISTO" uri="file:/C:/Users/anthb/Downloads/idoschisto.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/TEMP" uri="MALARIA_IDOMAL1.3.9_2015-03.obo"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1744850795861" name="duplicate:http://purl.obolibrary.org/obo/ido.owl" uri="PIDO.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1744850795861" name="duplicate:http://purl.obolibrary.org/obo/ido.owl" uri="PIDO_merged.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1744850795861" name="http://purl.obolibrary.org/obo/pido.owl" uri="PIDO.owx"/>
+    </group>
+</catalog>
